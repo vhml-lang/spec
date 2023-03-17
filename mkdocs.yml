@@ -1,0 +1,27 @@
+---
+site_name: vhml spec
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: darl)"
+      scheme: slate
+      primary: teal
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+    # yamllint disable-line rule:comments-indentation
+    # scheme: slate
+    # primary: teal
+    # accent: green
