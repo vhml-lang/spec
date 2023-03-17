@@ -1,5 +1,6 @@
 ---
 site_name: vhml spec
+site_url: https://vhml.ecorous.org
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
