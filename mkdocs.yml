@@ -6,3 +6,5 @@ theme:
     scheme: slate
     primary: teal
     accent: green
+  font:
+    text: Manrope
