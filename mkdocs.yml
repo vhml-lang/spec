@@ -17,3 +17,10 @@ theme:
     accent: green
   font:
     text: Manrope
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.tracking
+    - navigation.top
+    - toc.integrate
+    - content.tabs.link
