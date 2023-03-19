@@ -82,7 +82,7 @@ The Number literal may also be followed by a short sequence to declare its type 
 | **128**            | i128               | u128                 | f128               |
 
 ```vhml
-(number)num5:  = 42f64 # Valid
+(number)num5 = 42f64 # Valid
 (number)num6 = 42.0u16 # Highly discouraged, will cause loss of precision
 (number)num7 = 42u8 # Valid
 ```
