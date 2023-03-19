@@ -1,3 +1,7 @@
+---
+description: Commands are keywords that will perform actions to change your VHML file.
+---
+
 # Commands
 
 Commands are keywords that will perform actions to change your VHML file. Commands must be executed at the top of a file.

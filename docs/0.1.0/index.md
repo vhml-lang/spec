@@ -1,3 +1,7 @@
+---
+description: VHML is a configuration file format meant to be like TOML but with more features.
+---
+
 # VHML v0.1.0
 
 [TODO: Write more here] VHML is a configuration file format meant to be like TOML but with more features. It's designed to be pretty easy to read while also minimizing the boilerplate parts of configuration files. Although VHML is *like* TOML in many respects, and most VHML parsers can parse some TOML files, VHML is NOT TOML; there are multiple breaking changes
